@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+.vscode/
+# course slides and handouts (not my work)
+*.pptx
+*.pdf
+*.zip

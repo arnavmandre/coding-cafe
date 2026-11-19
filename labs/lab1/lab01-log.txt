@@ -1,0 +1,101 @@
+    1  code .
+    2  npm install -g omniroute
+    3  npm install
+    4  npm install -g omniroute
+    5  pwd
+    6  ls
+    7  ls -a
+    8  ls - l
+    9  ls -l
+   10  pwd
+   11  ls
+   12  ls -a
+   13  ls -l
+   14  cd ~s
+   15  ls coding-cafe/week02
+   16  mkdir coding-cafe
+   17  ls
+   18  ls-a
+   19  ls -a
+   20  ls -l
+   21  cd coding-cafe
+   22  mkdir week01
+   23  mkdir week02
+   24  touch
+   25  --help
+   26  touch --help
+   27  ls
+   28  touch README.md
+   29  ls
+   30  cd week02
+   31  touch notes.md
+   32  ls
+   33  cd ..
+   34  cd..
+   35  cd ..
+   36  ls coding-cafe/week02
+   37  pwwd
+   38  pwd
+   39  ls -l
+   40  pwd
+   41  python 3
+   42  python3
+   43  ls -R coding-cafe
+   44  cd coding-cafe
+   45  cp README.md README-backup.md
+   46  ls
+   47  mv README-backup.md week01/
+   48  ls
+   49  ls -R
+   50  cd week01
+   51  mv README-backup.md old-readme.md
+   52  ls
+   53  rm old-readme.md
+   54  ls
+   55  echo $PATH
+   56  which python3
+   57  which pip
+   58  which ls
+   59  pyton3
+   60  cd ~/coding-cafe
+   61  python3 -m venv .venv
+   62  sudo -s
+   63  python3 -m venv .venv
+   64  sudo apt update
+   65  sudo apt install python3.12-venv
+   66  python3 -m venv .venv
+   67  ls
+   68  ls -a
+   69  source .venv/bin/activate
+   70  which python3
+   71  pip list
+   72  pip install requests
+   73  pip list
+   74  deaactivate which python3 
+   75  deactivate which python3 
+   76  python3
+   77  which python
+   78  which python3
+   79  ls
+   80  cd week01
+   81  ls
+   82  cd ..
+   83  cd week02
+   84  ls
+   85  nano notes.md
+   86  man ls
+   87  man man 
+   88  cd ..
+   89  history
+   90  python3
+   91  ls
+   92  ls -a
+   93  bash
+   94  history
+   95  python3
+   96  cd coding-cafe
+   97  cd week02
+   98  nano notes.md
+   99  history > week02/lab01-log.txt
+  100  cd ..
+  101  history > week02/lab01-log.txt
